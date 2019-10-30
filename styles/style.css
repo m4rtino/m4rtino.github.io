@@ -1,0 +1,31 @@
+html {
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+	background-color: #f5edf5;
+}
+body {
+	width: 500px;
+	background-color: #c4b9c4;
+	margin: 1% auto;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+h1 {
+  font-size: 40px;
+  text-align: center;
+  margin: 100;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 10px 1px 10px white;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+img {
+	margin: 0 auto;
+	display: block;
+
+}
